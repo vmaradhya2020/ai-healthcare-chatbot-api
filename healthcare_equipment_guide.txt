@@ -1,0 +1,134 @@
+# Healthcare Equipment Guide
+
+## Ultrasound Machines
+
+Ultrasound machines use high-frequency sound waves to create images of internal body structures. Our ultrasound equipment includes:
+- Portable ultrasound devices for bedside imaging
+- High-resolution color Doppler ultrasound systems
+- 3D/4D ultrasound imaging capabilities
+
+Typical specifications:
+- Frequency range: 2-18 MHz
+- Display: 15-21 inch high-resolution LCD
+- Connectivity: DICOM compatible, USB, Ethernet
+- Power requirements: 110-240V AC, 50/60 Hz
+
+## X-Ray Equipment
+
+X-ray devices produce electromagnetic radiation to create images of bones and organs. We offer:
+- Digital radiography (DR) systems
+- Computed radiography (CR) systems
+- Mobile X-ray units for ICU and emergency departments
+
+Technical specifications:
+- Generator power: 20-80 kW
+- Tube voltage: 40-150 kV
+- mA range: 10-800 mA
+- Image resolution: Up to 3000 x 3000 pixels
+
+## MRI Scanners
+
+Magnetic Resonance Imaging (MRI) scanners use powerful magnets and radio waves to create detailed images. Our MRI systems include:
+- 1.5 Tesla field strength scanners
+- 3.0 Tesla high-field scanners for advanced imaging
+- Open MRI systems for claustrophobic patients
+
+Key features:
+- Gradient strength: 30-45 mT/m
+- Slew rate: 150-200 T/m/s
+- Bore diameter: 60-70 cm
+- Typical scan time: 15-90 minutes depending on sequence
+
+## Warranty Information
+
+Standard warranty coverage:
+- Ultrasound machines: 2 years parts and labor
+- X-ray equipment: 3 years parts, 1 year labor
+- MRI scanners: 5 years parts and labor
+- CT scanners: 3 years comprehensive coverage
+
+Extended warranty options are available for all equipment types.
+
+## Annual Maintenance Contracts (AMC)
+
+AMC contracts provide:
+- Quarterly preventive maintenance visits
+- Priority response for breakdowns (within 24 hours)
+- All spare parts and consumables included
+- Annual calibration and safety testing
+- Firmware and software updates
+- 24/7 helpline support
+
+AMC pricing:
+- Tier 1 (Basic): Covers parts and preventive maintenance
+- Tier 2 (Standard): Includes parts, PM, and emergency repairs
+- Tier 3 (Premium): Comprehensive coverage with loaner equipment
+
+## Installation and Commissioning
+
+Professional installation services include:
+- Site assessment and preparation guidance
+- Equipment delivery and unpacking
+- Installation and setup by certified technicians
+- Calibration and performance verification
+- Operator training (2-5 days depending on complexity)
+- Documentation and certification
+
+Typical installation timeframes:
+- Ultrasound: 1-2 days
+- X-ray: 3-5 days
+- MRI: 2-3 weeks (including site preparation)
+
+## Spare Parts and Accessories
+
+Commonly available spare parts:
+- Ultrasound probes and transducers
+- X-ray tubes and detectors
+- MRI RF coils (head, body, cardiac)
+- Power supplies and control boards
+- Monitors and displays
+- Patient positioning accessories
+
+All spare parts are OEM-certified and come with manufacturer warranties.
+
+## Compliance and Certifications
+
+All our equipment meets the following standards:
+- FDA 510(k) clearance (USA)
+- CE marking (European Union)
+- ISO 13485 medical device quality management
+- IEC 60601 electrical safety standards
+- HIPAA compliance for data security
+- DICOM 3.0 imaging standards
+
+Regular safety testing and compliance audits are included in AMC contracts.
+
+## Technical Support
+
+We provide comprehensive technical support:
+- Phone: 1-800-MEDEQUIP (24/7)
+- Email: support@healthcaresense.com
+- Online portal: support.healthcaresense.com
+- Remote diagnostics capabilities
+- On-site service technicians nationwide
+
+Average response times:
+- Phone support: Immediate
+- Email support: Within 4 hours
+- On-site service: Within 24 hours (emergency) or 48-72 hours (routine)
+
+## Training Programs
+
+We offer training for:
+- Equipment operators (radiographers, sonographers, MRI technologists)
+- Biomedical engineers and maintenance staff
+- Hospital administrators on compliance and safety
+- IT staff on PACS integration and data management
+
+Training formats:
+- On-site training at your facility
+- Instructor-led courses at our training centers
+- Online self-paced modules
+- Webinars and virtual instructor-led training
+
+All training includes certification and continuing education credits where applicable.

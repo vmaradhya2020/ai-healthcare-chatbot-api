@@ -1,0 +1,292 @@
+# Orders and Shipping Guide
+
+## How to Place an Order
+
+### Step 1: Product Selection
+- Browse our catalog at www.healthcaresense.com/catalog
+- Contact your sales representative for personalized recommendations
+- Request a quote via email: sales@healthcaresense.com
+- Phone orders: 1-800-MED-SALE (Monday-Friday, 8 AM - 6 PM EST)
+
+### Step 2: Quote and Approval
+Once you select equipment:
+- We provide detailed quotation within 24 hours
+- Quote includes: equipment cost, delivery, installation, training
+- Quote validity: 30 days from issue date
+- Financing options available (see section below)
+
+### Step 3: Purchase Order
+Submit your purchase order to:
+- Email: orders@healthcaresense.com
+- Fax: 1-800-FAX-ORDER
+- Online portal: portal.healthcaresense.com
+
+Required information:
+- Company name and billing address
+- Shipping address (if different from billing)
+- Contact person and phone number
+- Payment terms
+- Special delivery instructions
+
+### Step 4: Order Confirmation
+Within 24 hours of receiving your PO:
+- Order confirmation email sent
+- Unique order tracking number assigned (format: ORD-XXXXX)
+- Estimated delivery date provided
+- Installation schedule (if applicable)
+
+## Order Tracking
+
+Track your order anytime:
+- Online: www.healthcaresense.com/track
+- Enter your order number (ORD-XXXXX)
+- Phone: 1-800-TRACK-IT
+- Email updates: Automatic at each shipment milestone
+
+Order statuses:
+- **Pending**: Order received, awaiting processing
+- **Confirmed**: Order verified, preparing for shipment
+- **In Production**: Custom orders being manufactured
+- **Ready to Ship**: Packed and ready for pickup by carrier
+- **Shipped**: En route to your facility
+- **Out for Delivery**: Local delivery scheduled
+- **Delivered**: Received at your facility
+- **Installed**: Equipment installed and commissioned
+
+## Shipping Options
+
+### Domestic Shipping (USA)
+
+**Standard Ground:**
+- Transit time: 5-7 business days
+- Cost: Included for orders over $5,000
+- Best for: Non-urgent equipment, accessories
+
+**Expedited Shipping:**
+- Transit time: 2-3 business days
+- Cost: $200-$500 depending on size/weight
+- Best for: Spare parts, urgent replacements
+
+**Next-Day Air:**
+- Transit time: 1 business day
+- Cost: $500-$1,500
+- Best for: Critical spare parts, emergency replacements
+
+**White Glove Delivery:**
+- Includes: Room-of-choice delivery, unpacking, debris removal
+- Transit time: Scheduled based on your availability
+- Cost: $300-$800
+- Best for: All major equipment
+- Required for: MRI, CT, and other large imaging systems
+
+### International Shipping
+
+We ship to over 100 countries worldwide:
+- Air freight: 5-10 business days
+- Ocean freight: 4-8 weeks
+- All necessary export documentation handled
+- Customs clearance assistance provided
+- DDP (Delivered Duty Paid) available
+
+International shipping costs vary by:
+- Destination country
+- Equipment size and weight
+- Shipping method
+- Customs and duties
+
+## Delivery Timeline by Equipment Type
+
+**Ultrasound Machines:**
+- Stock items: 3-5 business days
+- Custom configuration: 2-3 weeks
+- Installation add: +1-2 days
+
+**X-Ray Equipment:**
+- Portable units: 1-2 weeks
+- Fixed installations: 4-6 weeks
+- Installation: 3-5 days after delivery
+
+**MRI Scanners:**
+- Standard systems: 8-12 weeks
+- Site preparation required before delivery
+- Installation: 2-3 weeks
+- Total time from order to operation: 12-16 weeks
+
+**CT Scanners:**
+- Standard models: 6-10 weeks
+- Advanced systems: 10-14 weeks
+- Installation: 1-2 weeks
+
+**Laboratory Equipment:**
+- Stock items: 2-5 business days
+- Special orders: 2-4 weeks
+
+## Installation Services
+
+Professional installation included for:
+- All imaging equipment (X-ray, MRI, CT, Ultrasound)
+- Laboratory automation systems
+- Equipment over $50,000 value
+
+Installation package includes:
+- Pre-installation site assessment
+- Delivery coordination
+- Unpacking and positioning
+- Assembly and connection
+- Calibration and testing
+- Operator training (basic)
+- Startup documentation
+
+Installation timeline:
+- Ultrasound: 1 day
+- X-ray (portable): 1-2 days
+- X-ray (fixed): 3-5 days
+- CT Scanner: 5-7 days
+- MRI Scanner: 10-15 days (including magnet ramping)
+
+## Payment Terms
+
+### Standard Terms
+- Net 30 days for established customers
+- Credit approval required
+- Late payment: 1.5% monthly interest
+
+### Prepayment Options
+- 2% discount for payment in full before shipment
+- Wire transfer or certified check
+- Credit card accepted (up to $50,000)
+
+### Financing Available
+Through our partners:
+- Equipment leasing: 24, 36, 48, 60 month terms
+- $1 buyout or FMV (Fair Market Value) options
+- Rates as low as 4.9% APR (qualified customers)
+- Flexible payment schedules
+
+### Special Programs
+- Government/Municipal: Net 60 days
+- Educational Institutions: Net 45 days
+- Volume Discounts: 5-15% for multi-unit orders
+
+## Returns and Exchanges
+
+### Return Policy
+- 30-day return window from delivery date
+- Equipment must be in original condition
+- Restocking fee: 15% of purchase price
+- Return shipping at customer's expense
+- Custom or configured items are not returnable
+
+### Exchange Policy
+- Exchanges allowed within 30 days
+- Must be for equal or greater value
+- Size/weight differences may incur additional shipping charges
+
+### Damaged or Defective Items
+If equipment arrives damaged or defective:
+1. Document damage with photos immediately
+2. Note on delivery receipt before signing
+3. Contact us within 24 hours: claims@healthcaresense.com
+4. Keep all packaging materials
+5. We will arrange:
+   - Inspection by our technician
+   - Repair if minor damage
+   - Replacement if major damage or defect
+   - Full refund if equipment cannot be repaired
+
+No restocking fee or return shipping charges for damaged/defective items.
+
+## Shipping Insurance
+
+All shipments automatically insured:
+- Full replacement value coverage
+- No deductible for manufacturing defects
+- Covers damage during transit
+- Claim processing within 48 hours
+
+Additional coverage available:
+- Installation protection
+- Extended transit coverage
+- International shipment insurance
+
+## Packaging and Handling
+
+We use industry-leading packaging:
+- Custom foam inserts for fragile equipment
+- Shock indicators on all crates
+- Tilt sensors for sensitive instruments
+- Climate-controlled shipping for temperature-sensitive items
+- Moisture barrier packaging
+- UN-rated crates for international shipments
+
+## Special Delivery Requirements
+
+We can accommodate:
+- Weekend/after-hours delivery (additional fee applies)
+- Crane or rigging services for heavy equipment
+- Multiple stops/split shipments
+- Hold for pickup at carrier facility
+- Call before delivery
+- Appointment scheduling
+- Loading dock requirements
+
+## Shipping Restrictions
+
+Due to size or special handling requirements, the following may have restrictions:
+- MRI magnets (need specialized transport)
+- Items over 10,000 lbs (custom logistics required)
+- Hazardous materials (batteries, chemicals)
+- International shipments to certain countries
+- Remote or difficult access locations
+
+Contact our logistics team for special arrangements: logistics@healthcaresense.com
+
+## Customer Service and Support
+
+**Order Questions:**
+- Phone: 1-800-MED-SALE
+- Email: orders@healthcaresense.com
+- Hours: Monday-Friday, 8 AM - 6 PM EST
+
+**Shipping Questions:**
+- Phone: 1-800-SHIP-MED
+- Email: shipping@healthcaresense.com
+- Hours: Monday-Friday, 8 AM - 6 PM EST
+
+**Installation Scheduling:**
+- Phone: 1-800-INSTALL
+- Email: install@healthcaresense.com
+- Hours: Monday-Friday, 7 AM - 5 PM local time
+
+**Claims and Damage Reports:**
+- Phone: 1-800-CLAIMS
+- Email: claims@healthcaresense.com
+- Available: 24/7 for urgent issues
+
+## Tips for Smooth Delivery
+
+1. **Site Preparation:**
+   - Ensure loading dock access for large equipment
+   - Verify doorway widths and ceiling heights
+   - Have electrical and plumbing ready (if required)
+   - Clear pathways to installation room
+
+2. **Be Ready for Delivery:**
+   - Have designated contact person available
+   - Arrange for staff to receive shipment
+   - Inspect equipment before accepting delivery
+   - Have PO number ready for driver
+
+3. **Installation Prep:**
+   - Schedule installation 1-2 weeks after delivery
+   - Arrange for IT/biomedical staff availability
+   - Plan for operator training time
+   - Ensure power/HVAC requirements met
+
+4. **Documentation:**
+   - Keep all packing lists and paperwork
+   - Document serial numbers immediately
+   - File warranty registration
+   - Keep installation certificates
+
+For any questions about ordering or shipping, our team is here to help make your experience smooth and hassle-free.

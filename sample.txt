@@ -1,0 +1,11 @@
+PS C:\capstone_ic_ik\ai-healthcare-chatbot-api-main> python -m venv ichealthchatbot
+PS C:\capstone_ic_ik\ai-healthcare-chatbot-api-main> .\ichealthchatbot\Scripts\Activate.ps1
+(ichealthchatbot) PS C:\capstone_ic_ik\ai-healthcare-chatbot-api-main>
+
+This is a sample document for testing the RAG system.
+
+Healthcare equipment includes ultrasound machines, X-ray devices, and MRI scanners.
+
+Warranty periods vary by manufacturer, typically 1-5 years.
+
+AMC contracts provide annual maintenance services.
