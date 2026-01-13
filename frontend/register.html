@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare AI Assistant - Register</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="auth-card">
+            <div class="auth-header">
+                <div class="logo">
+                    <svg width="50" height="50" viewBox="0 0 64 64" fill="none">
+                        <!-- Medical Cross with Heart -->
+                        <circle cx="32" cy="32" r="30" fill="#4CAF50" opacity="0.15"/>
+                        <circle cx="32" cy="32" r="26" fill="#4CAF50" opacity="0.3"/>
+                        <!-- Heart Shape -->
+                        <path d="M32 45L18 32C15 29 15 24 18 21C21 18 26 18 29 21L32 24L35 21C38 18 43 18 46 21C49 24 49 29 46 32L32 45Z" fill="#4CAF50"/>
+                        <!-- Medical Cross -->
+                        <rect x="29" y="20" width="6" height="24" rx="1" fill="white"/>
+                        <rect x="20" y="29" width="24" height="6" rx="1" fill="white"/>
+                        <!-- Pulse Line -->
+                        <path d="M10 32 L18 32 L22 26 L26 38 L30 32 L54 32" stroke="white" stroke-width="2" fill="none" opacity="0.6"/>
+                    </svg>
+                </div>
+                <h1>Create Account</h1>
+                <p>Join our healthcare support platform</p>
+            </div>
+
+            <form id="registerForm" class="auth-form">
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="you@example.com"
+                        required
+                    >
+                    <span class="error-message" id="emailError"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <div class="password-input">
+                        <input
+                            type="password"
+                            id="password"
+                            name="password"
+                            placeholder="Minimum 8 characters"
+                            required
+                            minlength="8"
+                        >
+                        <button type="button" class="toggle-password" id="togglePassword">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
+                                <circle cx="12" cy="12" r="3"/>
+                            </svg>
+                        </button>
+                    </div>
+                    <span class="error-message" id="passwordError"></span>
+                    <small class="hint">Must be at least 8 characters long</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="client_code">Client Code</label>
+                    <input
+                        type="text"
+                        id="client_code"
+                        name="client_code"
+                        placeholder="Enter your organization code"
+                        required
+                    >
+                    <span class="error-message" id="clientCodeError"></span>
+                    <small class="hint">Available test codes: CITY001, MARY002, COMM003, DIAG004</small>
+                </div>
+
+                <div class="success-alert" id="formSuccess" style="display: none;">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <circle cx="12" cy="12" r="10"/>
+                        <polyline points="9 12 11 14 15 10"/>
+                    </svg>
+                    <span id="formSuccessText"></span>
+                </div>
+
+                <div class="error-alert" id="formError" style="display: none;">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <circle cx="12" cy="12" r="10"/>
+                        <line x1="12" y1="8" x2="12" y2="12"/>
+                        <line x1="12" y1="16" x2="12.01" y2="16"/>
+                    </svg>
+                    <span id="formErrorText"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary" id="registerBtn">
+                    <span class="btn-text">Create Account</span>
+                    <span class="loader" style="display: none;"></span>
+                </button>
+
+                <div class="auth-footer">
+                    <p>Already have an account? <a href="index.html">Sign in here</a></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/auth.js"></script>
+    <script src="js/register.js"></script>
+</body>
+</html>
