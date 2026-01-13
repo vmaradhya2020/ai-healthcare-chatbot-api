@@ -7,6 +7,7 @@ sdk: docker
 sdk_version: "3.9"
 app_port: 7860
 pinned: false
+Test URL: https://huggingface.co/spaces/vmaradhya/healthcare-ai-chatbot
 ---
 
 # 🏥 Healthcare AI Assistant
