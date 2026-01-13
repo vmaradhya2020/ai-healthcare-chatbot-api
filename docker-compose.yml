@@ -1,0 +1,101 @@
+services:
+  # MySQL Database
+  mysql:
+    image: mysql:8.0
+    container_name: healthcaresense-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-RootPassword123!}
+      MYSQL_DATABASE: healthcaresense
+      MYSQL_USER: healthcareapp
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-Change_This_Password_123!}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./scripts/setup_mysql.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - healthcare-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p$$MYSQL_ROOT_PASSWORD"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Healthcare Chatbot API
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: healthcaresense-api
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=mysql+pymysql://healthcareapp:${MYSQL_PASSWORD:-Change_This_Password_123!}@mysql:3306/healthcaresense
+      - ENVIRONMENT=production
+    ports:
+      - "8001:8001"
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - healthcare-network
+    volumes:
+      - ./logs:/app/logs
+      - ./docs:/app/docs
+      - chroma_data:/app/.chroma
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Redis (Optional - for caching and rate limiting)
+  redis:
+    image: redis:7-alpine
+    container_name: healthcaresense-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    networks:
+      - healthcare-network
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    command: redis-server --appendonly yes
+
+  # Nginx Reverse Proxy (Optional - for production)
+  nginx:
+    image: nginx:alpine
+    container_name: healthcaresense-nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - api
+    networks:
+      - healthcare-network
+    profiles:
+      - production  # Only start with --profile production
+
+networks:
+  healthcare-network:
+    driver: bridge
+
+volumes:
+  mysql_data:
+    driver: local
+  redis_data:
+    driver: local
+  chroma_data:
+    driver: local
